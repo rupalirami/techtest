@@ -1,0 +1,22 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+
+.regular {
+  min-width: 80px;
+  max-height: 40px;
+  padding: 10px 20px;
+  margin: 0px 10px 0px 0px;
+  background-color: $color-white;
+  border: 2px solid $color-black;
+  border-radius: 10px;
+}
+
+.round {
+  background-color: $color-black;
+  color: $color-white;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 5px 0px 0px 5px;
+}

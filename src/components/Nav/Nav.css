@@ -1,0 +1,10 @@
+.nav {
+  max-width: 375;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px auto;
+}
+.nav h2 {
+  margin: auto 10px;
+  font-size: large;
+}/*# sourceMappingURL=Nav.css.map */
